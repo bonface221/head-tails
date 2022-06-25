@@ -1,6 +1,6 @@
 # counter
 
-Clone the counter template code from here: https://github.com/apprenticecloud/counter
+Clone the counter template code from here: https://github.com/bonface221/counter
 
 In this assignment your are supposed to add functionality for the `+10`, `+15`, `+20` buttons
 
